@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "617396695700",
+    "project_id": "noira-25",
+    "storage_bucket": "noira-25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617396695700:android:0b7768739fcc720ec27a81",
+        "android_client_info": {
+          "package_name": "com.example.noira"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIjuiBiqhDqeC8u4dAjsvZaJ2uzzhjYGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
